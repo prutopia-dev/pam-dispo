@@ -1,0 +1,15 @@
+{
+  "name": "dispo-pam",
+  "compatibility_date": "2026-08-14",
+  "main": "worker.js",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "PERMANENCES",
+      "id": "c7c328e52f0e4bb6a8c84890fd439e69"
+    }
+  ]
+}
